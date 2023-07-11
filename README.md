@@ -1,4 +1,4 @@
-# do_mvc
+# Energy Australia
 REST API with MVC pattern using Node.js and Express.js and TypeScript
 
 ## Installation
